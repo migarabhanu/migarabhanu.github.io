@@ -96,14 +96,8 @@ input[type="checkbox"]{
   }
 }
 .fire{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  position: relative;
   text-align: center;
-  z-index: -1;
-  width: 100%;
-  padding: 0 30px;
   color: #ff5ec9;
 }
 .fire div{
