@@ -13,7 +13,8 @@ Creative Commons Zero v1.0 Universal
 The Creative Commons CC0 Public Domain Dedication waives copyright interest in a work you've created and dedicates it to the world-wide public domain. Use CC0 to opt out of copyright entirely and ensure your work has the widest reach. As with the Unlicense and typical software licenses, CC0 disclaims warranties. CC0 is very similar to the Unlicense.
 
 ## Published site
-The published site is linked with https://migarabhanu.github.io using GitHub hosting service
+The published site is linked with https://migarabhanu.github.io using GitHub hosting service.
+The site is also published at http://migarabhanu.weragoda.repl.co/
 <br>
 <br>
 ![](https://img.shields.io/badge/HostOn-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=8d81c2)
